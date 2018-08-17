@@ -1,6 +1,12 @@
-
 ## At a glance ##
-A step-by-step tutorial for building an out-of-source LLVM pass based on Adrian Sampson's "LLVM for Grad Students"
+Follow the following post to get started with LLVM basic-block insertion injection
+
+https://summonersrift.github.io/blog/LLVM-for-advanced-grad-students/
+
+Replace _summonersrift_ with the username of this page.
+
+
+_Note_: It is built from a step-by-step tutorial for building an out-of-source LLVM pass based on Adrian Sampson's "LLVM for Grad Students"
 
 ## Setup ##
 
